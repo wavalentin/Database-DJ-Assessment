@@ -6,7 +6,7 @@ Answer the following questions below:
   - PostgreSQL is an open source ORDBMS (object relational database management system) that supports a large part of the SQL standard and offers many other features.
 
 - What is the difference between SQL and PostgreSQL?
-  - SQL is a database management system and PostgreSQL is an advanced version of it, that supports different functions.
+  - SQL is the language used for interacting with relational databases and PostgreSQL is a specific RDBMS that uses SQL and offers additional features and capabilities.
 
 - In `psql`, how do you connect to a database?
   - `\c DB_NAME`
